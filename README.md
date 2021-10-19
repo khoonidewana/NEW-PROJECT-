@@ -29,7 +29,7 @@ The design document showcases the high- or low-level design components of the sy
 Work Plan/Estimate
 A work plan sets out the phases, activities, and tasks needed to deliver a project. The timeframes required to deliver a project, as well as resources and milestones, are also shown in a work plan. The work plan is referred to continually throughout the project. Actual progress is reviewed daily against the stated plan and is, therefore, the most critical document to deliver projects successfully.
 
-Traceability Matrix
+Traceability Matrix of the project
 A traceability matrix is a table that traces a requirement to the tests that are needed to verify that the requirement is fulfilled. A useful traceability matrix will provide backward and forward traceability: a requirement can be traced to a test and a test to a requirement.
 
 Issue Tracker
