@@ -1,4 +1,4 @@
-Table of Contents
+Table of Content
 Project Documentation UsesDetails of Project Documentation Phases
 Project management leaders are often asked a common question: what is the importance of project documentation and how can I ensure I’m performing the function right. There’s no doubt that project documentation is a vital part of Project management training. The essential two functions of documentation substantiate it: to make sure that project requirements are fulfilled and to establish traceability concerning what has been done, who has done it, and when it has been done. 
 
