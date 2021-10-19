@@ -11,7 +11,7 @@ Experienced project managers excel at making and following standard templates fo
 
 Project management usually follows major phases: Initiation, Planning, Control, and Closure.
 
-Project Details
+ALL Project Details
 
 Details of Project Documentation Phases
 Feasibility Report
