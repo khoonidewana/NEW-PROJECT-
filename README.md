@@ -37,7 +37,7 @@ An issue tracker manages and maintains a list of issues. It helps add issues, as
 
 Here are 200+ Project Management Templates and Documents.
 
-Change Management Document
+Change Management Document for the improvement
 A change management document is used to capture progress and to record all changes made to a system. This helps in linking unanticipated adverse effects of a change.
 
 Test Document
